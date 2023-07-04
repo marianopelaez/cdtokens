@@ -1,5 +1,5 @@
 {
-  "fileName": "sizing.json",
+  "fileName": "tokens.json",
   "sizing": {
     "base": {
       "$type": "sizing",
@@ -300,6 +300,20 @@
             "$description": "Unset global token",
             "$value": "1920px"
           }
+      }
+    }
+  },
+  "spacing": {
+    "base": {
+      "$type": "spacing",
+      "$description": "0.25rem",
+      "$value": "6px"
+    },
+    "scale": {
+      "sp-0": {
+        "$type": "spacing",
+        "$description": "0rem",
+        "$value": "0px"
       }
     }
   }
