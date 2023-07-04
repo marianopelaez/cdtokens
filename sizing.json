@@ -345,6 +345,14 @@
         "$description": "(sp-20) 4.875rem",
         "$value": "78px"
       }
+    },
+    "containers": {
+        "chunky": {
+          "padding-big": {
+            "$type": "spacing",
+            "$description": "(sp-12) 3rem",
+            "$value": "{spacing.scale.xl}"
+            }
+        }
     }
-  }
 }
