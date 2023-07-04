@@ -312,13 +312,38 @@
     "scale": {
       "sp-2xs": {
         "$type": "spacing",
-        "$description": "(sp-1) 0.1875remrem",
+        "$description": "(sp-1) 0.1875rem",
         "$value": "3px"
       },
       "sp-xs": {
         "$type": "spacing",
-        "$description": "(sp-1.5) 0.25remrem",
+        "$description": "(sp-1.5) 0.25rem",
         "$value": "6px"
+      },
+      "sp-s": {
+        "$type": "spacing",
+        "$description": "(sp-3) 0.625rem",
+        "$value": "12px"
+      },
+      "sp-m": {
+        "$type": "spacing",
+        "$description": "(sp-4) 1.125rem",
+        "$value": "18px"
+      },
+      "sp-l": {
+        "$type": "spacing",
+        "$description": "(sp-8) 1.875rem",
+        "$value": "30px"
+      },
+      "sp-xl": {
+        "$type": "spacing",
+        "$description": "(sp-12) 3rem",
+        "$value": "48px"
+      },
+      "sp-2xl": {
+        "$type": "spacing",
+        "$description": "(sp-20) 4.875rem",
+        "$value": "78px"
       }
     }
   }
