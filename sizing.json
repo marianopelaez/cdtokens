@@ -310,37 +310,37 @@
       "$value": "6px"
     },
     "scale": {
-      "sp-2xs": {
+      "2xs": {
         "$type": "spacing",
         "$description": "(sp-1) 0.1875rem",
         "$value": "3px"
       },
-      "sp-xs": {
+      "xs": {
         "$type": "spacing",
         "$description": "(sp-1.5) 0.25rem",
         "$value": "6px"
       },
-      "sp-s": {
+      "s": {
         "$type": "spacing",
         "$description": "(sp-3) 0.625rem",
         "$value": "12px"
       },
-      "sp-m": {
+      "m": {
         "$type": "spacing",
         "$description": "(sp-4) 1.125rem",
         "$value": "18px"
       },
-      "sp-l": {
+      "l": {
         "$type": "spacing",
         "$description": "(sp-8) 1.875rem",
         "$value": "30px"
       },
-      "sp-xl": {
+      "xl": {
         "$type": "spacing",
         "$description": "(sp-12) 3rem",
         "$value": "48px"
       },
-      "sp-2xl": {
+      "2xl": {
         "$type": "spacing",
         "$description": "(sp-20) 4.875rem",
         "$value": "78px"
@@ -351,22 +351,22 @@
         "padding-regular": {
           "$type": "spacing",
           "$description": "(sp-8) 30px / 1.875rem",
-          "$value": "{spacing.scale.sp-l}"
+          "$value": "{spacing.scale.l}"
         },
         "padding-big": {
             "$type": "spacing",
             "$description": "(sp-12) 48px / 3rem",
-            "$value": "{spacing.scale.sp-xl}"
+            "$value": "{spacing.scale.xl}"
         },
         "gap": {
             "$type": "spacing",
             "$description": "(sp-4) 18px / 1.125rem",
-            "$value": "{spacing.scale.sp-m}"
+            "$value": "{spacing.scale.m}"
         },
         "border": {
             "$type": "spacing",
             "$description": "(sp-12) 48px / 3rem",
-            "$value": "{spacing.scale.sp-xl}"
+            "$value": "{spacing.scale.xl}"
         }
       }
     }
