@@ -306,14 +306,19 @@
   "spacing": {
     "base": {
       "$type": "spacing",
-      "$description": "0.25rem",
+      "$description": "(sp-1.5) 0.25rem (Fibonacci)",
       "$value": "6px"
     },
     "scale": {
-      "sp-0": {
+      "sp-2xs": {
         "$type": "spacing",
-        "$description": "0rem",
-        "$value": "0px"
+        "$description": "(sp-1) 0.1875remrem",
+        "$value": "3px"
+      },
+      "sp-xs": {
+        "$type": "spacing",
+        "$description": "(sp-1.5) 0.25remrem",
+        "$value": "6px"
       }
     }
   }
