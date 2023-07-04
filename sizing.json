@@ -347,12 +347,27 @@
       }
     },
     "containers": {
-        "chunky": {
-          "padding-big": {
+      "chunky": {
+        "padding-regular": {
+          "$type": "spacing",
+          "$description": "(sp-8) 30px / 1.875rem",
+          "$value": "{spacing.scale.l}"
+        },
+        "padding-big": {
             "$type": "spacing",
-            "$description": "(sp-12) 3rem",
+            "$description": "(sp-12) 48px / 3rem",
             "$value": "{spacing.scale.xl}"
-            }
+        },
+        "gap": {
+            "$type": "spacing",
+            "$description": "(sp-4) 18px / 1.125rem",
+            "$value": "{spacing.scale.m}"
+        },
+        "border": {
+            "$type": "spacing",
+            "$description": "(sp-12) 48px / 3rem",
+            "$value": "{spacing.scale.xl}"
         }
+      }
     }
 }
