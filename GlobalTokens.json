@@ -47,7 +47,7 @@
                     "chunky": {
                         "$type": "spacing",
                         "$description": "Paddings, Margins and Gaps",
-                        "$value": "{global-tokens.sp.6x}"
+                        "$value": "10px"
                     }
                 }
             }
