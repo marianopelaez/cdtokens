@@ -61,7 +61,43 @@
             "compact": {
                 "$type": "spacing",
                 "$description": "Paddings, Margins and Gaps",
-                "$value": "{global-tokens.sp.3}"
+                "$value": "{global-tokens.sp.3px}"
+            }
+        },
+        "x-small": {
+            "chunky": {
+                "$type": "spacing",
+                "$description": "Paddings, Margins and Gaps",
+                "$value": "{global-tokens.sp.12px}"
+            },
+            "compact": {
+                "$type": "spacing",
+                "$description": "Paddings, Margins and Gaps",
+                "$value": "{global-tokens.sp.6px}"
+            }
+        },
+        "x-small": {
+            "chunky": {
+                "$type": "spacing",
+                "$description": "Paddings, Margins and Gaps",
+                "$value": "{global-tokens.sp.18px}"
+            },
+            "compact": {
+                "$type": "spacing",
+                "$description": "Paddings, Margins and Gaps",
+                "$value": "{global-tokens.sp.12px}"
+            }
+        },
+        "x-small": {
+            "chunky": {
+                "$type": "spacing",
+                "$description": "Paddings, Margins and Gaps",
+                "$value": "{global-tokens.sp.48px}"
+            },
+            "compact": {
+                "$type": "spacing",
+                "$description": "Paddings, Margins and Gaps",
+                "$value": "{global-tokens.sp.30px}"
             }
         }
     }
