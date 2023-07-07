@@ -365,6 +365,78 @@
                 "$description": "Max-width",
                 "$value": "{sz.768px}"
             }
+        },
+        "modal": {
+            "small": {
+                "$type": "size",
+                "$description": "Max-width",
+                "$value": "{sz.320px}"
+            },
+            "medium": {
+                "$type": "size",
+                "$description": "Max-width",
+                "$value": "{sz.512px}"
+            },
+            "large": {
+                "$type": "size",
+                "$description": "Max-width",
+                "$value": "{sz.640px}"
+            },
+            "x-large": {
+                "$type": "size",
+                "$description": "Max-width",
+                "$value": "{sz.768px}"
+            }
+        },
+        "breakpoints": {
+            "small": {
+                "min-width": {
+                    "$type": "size",
+                    "$description": "Max Mobile",
+                    "$value": "320px"
+                },
+                "max-width": {
+                    "$type": "size",
+                    "$description": "Max Mobile",
+                    "$value": "639px"
+                },
+            },
+            "medium": {
+                "min-width": {
+                    "$type": "size",
+                    "$description": "Min Tablet",
+                    "$value": "640px"
+                },
+                "max-width": {
+                    "$type": "size",
+                    "$description": "Max Tablet",
+                    "$value": "1279px"
+                },
+            },
+            "large": {
+                "min-width": {
+                    "$type": "size",
+                    "$description": "Min Laptop",
+                    "$value": "1280px"
+                },
+                "max-width": {
+                    "$type": "size",
+                    "$description": "Max Laptop",
+                    "$value": "1535px"
+                },
+            },
+            "x-large": {
+                "min-width": {
+                    "$type": "size",
+                    "$description": "Min Desktop",
+                    "$value": "1536px"
+                },
+                "max-width": {
+                    "$type": "size",
+                    "$description": "Max Desktop",
+                    "$value": "1920px"
+                }
+            }
         }
     }
 }
