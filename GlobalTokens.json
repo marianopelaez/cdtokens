@@ -76,7 +76,7 @@
                 "$value": "{global-tokens.sp.6px}"
             }
         },
-        "x-small": {
+        "small": {
             "chunky": {
                 "$type": "spacing",
                 "$description": "Paddings, Margins and Gaps",
@@ -88,7 +88,19 @@
                 "$value": "{global-tokens.sp.12px}"
             }
         },
-        "x-small": {
+        "medium": {
+            "chunky": {
+                "$type": "spacing",
+                "$description": "Paddings, Margins and Gaps",
+                "$value": "{global-tokens.sp.30px}"
+            },
+            "compact": {
+                "$type": "spacing",
+                "$description": "Paddings, Margins and Gaps",
+                "$value": "{global-tokens.sp.18px}"
+            }
+        },
+        "large": {
             "chunky": {
                 "$type": "spacing",
                 "$description": "Paddings, Margins and Gaps",
