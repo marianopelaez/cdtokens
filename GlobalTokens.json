@@ -48,8 +48,8 @@
                         "$type": "spacing",
                         "$description": "Paddings, Margins and Gaps",
                         "$value": "{sp.6x}"
-                    },
-                },
+                    }
+                }
             }
         }
     }
