@@ -56,12 +56,12 @@
             "chunky": {
                 "$type": "spacing",
                 "$description": "Paddings, Margins and Gaps",
-                "$value": "10px"
+                "$value": "{global-tokens.sp.6px}"
             },
             "compact": {
                 "$type": "spacing",
                 "$description": "Paddings, Margins and Gaps",
-                "$value": "5px"
+                "$value": "{global-tokens.sp.3}"
             }
         }
     }
