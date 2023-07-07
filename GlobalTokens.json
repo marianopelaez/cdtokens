@@ -42,14 +42,19 @@
                 "$description": "6rem",
                 "$value": "96px"
             },
-            "spacing": {
-                "space-2x-small": {
-                    "chunky": {
-                        "$type": "spacing",
-                        "$description": "Paddings, Margins and Gaps",
-                        "$value": "10px"
-                    }
-                }
+        }
+    },
+    "spacing": {
+        "space-2x-small": {
+            "chunky": {
+                "$type": "spacing",
+                "$description": "Paddings, Margins and Gaps",
+                "$value": "10px"
+            },
+            "compact": {
+                "$type": "spacing",
+                "$description": "Paddings, Margins and Gaps",
+                "$value": "5px"
             }
         }
     }
