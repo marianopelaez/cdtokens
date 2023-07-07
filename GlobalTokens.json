@@ -399,7 +399,7 @@
                     "$type": "size",
                     "$description": "Max Mobile",
                     "$value": "639px"
-                },
+                }
             },
             "medium": {
                 "min-width": {
@@ -411,7 +411,7 @@
                     "$type": "size",
                     "$description": "Max Tablet",
                     "$value": "1279px"
-                },
+                }
             },
             "large": {
                 "min-width": {
@@ -423,7 +423,7 @@
                     "$type": "size",
                     "$description": "Max Laptop",
                     "$value": "1535px"
-                },
+                }
             },
             "x-large": {
                 "min-width": {
