@@ -1,0 +1,56 @@
+{
+    "fileName": "GlobalTokens.json",
+    "global-tokens": {
+        "sp": {
+            "3px": {
+                "$type": "spacing",
+                "$description": "0.1875rem",
+                "$value": "3px"
+            },
+            "6px": {
+                "$type": "spacing",
+                "$description": "0.25rem",
+                "$value": "6px"
+            },
+            "12px": {
+                "$type": "spacing",
+                "$description": "0.625rem",
+                "$value": "12px"
+            },
+            "18px": {
+                "$type": "spacing",
+                "$description": "1.125rem",
+                "$value": "18px"
+            },
+            "30px": {
+                "$type": "spacing",
+                "$description": "1.875rem",
+                "$value": "30px"
+            },
+            "48px": {
+                "$type": "spacing",
+                "$description": "3rem",
+                "$value": "48px"
+            },
+            "78px": {
+                "$type": "spacing",
+                "$description": "4.875rem",
+                "$value": "78px"
+            },
+            "96px": {
+                "$type": "spacing",
+                "$description": "6rem",
+                "$value": "96px"
+            },
+            "spacing": {
+                "space-2x-small": {
+                    "chunky": {
+                        "$type": "spacing",
+                        "$description": "Paddings, Margins and Gaps",
+                        "$value": "{sp.6x}"
+                    },
+                },
+            }
+        }
+    }
+}
