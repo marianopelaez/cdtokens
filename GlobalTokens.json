@@ -147,5 +147,14 @@
                 "$value": "{sp.30px}"
             }
         }
+    },
+    "size": {
+        "width": {
+            "2x-small": {
+                "$type": "size",
+                "$description": "Border Radius",
+                "$value": "{sz.3px}"
+            }
+        }
     }
 }
