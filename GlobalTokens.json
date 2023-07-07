@@ -112,5 +112,43 @@
                 "$value": "{global-tokens.sp.30px}"
             }
         }
+    },
+    "radius": {
+        "medium": {
+            "chunky": {
+                "$type": "radius",
+                "$description": "Border Radius",
+                "$value": "{global-tokens.sp.18px}"
+            },
+            "compact": {
+                "$type": "radius",
+                "$description": "Border Radius",
+                "$value": "{global-tokens.sp.12px}"
+            }
+        },
+        "large": {
+            "chunky": {
+                "$type": "radius",
+                "$description": "Border Radius",
+                "$value": "{global-tokens.sp.30px}"
+            },
+            "compact": {
+                "$type": "radius",
+                "$description": "Border Radius",
+                "$value": "{global-tokens.sp.18px}"
+            }
+        },
+        "x-large": {
+            "chunky": {
+                "$type": "radius",
+                "$description": "Border Radius",
+                "$value": "{global-tokens.sp.48px}"
+            },
+            "compact": {
+                "$type": "radius",
+                "$description": "Border Radius",
+                "$value": "{global-tokens.sp.30px}"
+            }
+        }
     }
 }
