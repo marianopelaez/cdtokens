@@ -51,8 +51,8 @@
             }
         }
     },
-    "spacing": {
-        "space-2x-small": {
+    "space": {
+        "2x-small": {
             "chunky": {
                 "$type": "spacing",
                 "$description": "Paddings, Margins and Gaps",
