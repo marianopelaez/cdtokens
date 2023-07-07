@@ -53,60 +53,60 @@
             "chunky": {
                 "$type": "spacing",
                 "$description": "Paddings, Margins and Gaps",
-                "$value": "{global-tokens.sp.6px}"
+                "$value": "{sp.6px}"
             },
             "compact": {
                 "$type": "spacing",
                 "$description": "Paddings, Margins and Gaps",
-                "$value": "{global-tokens.sp.3px}"
+                "$value": "{sp.3px}"
             }
         },
         "x-small": {
             "chunky": {
                 "$type": "spacing",
                 "$description": "Paddings, Margins and Gaps",
-                "$value": "{global-tokens.sp.12px}"
+                "$value": "{sp.12px}"
             },
             "compact": {
                 "$type": "spacing",
                 "$description": "Paddings, Margins and Gaps",
-                "$value": "{global-tokens.sp.6px}"
+                "$value": "{sp.6px}"
             }
         },
         "small": {
             "chunky": {
                 "$type": "spacing",
                 "$description": "Paddings, Margins and Gaps",
-                "$value": "{global-tokens.sp.18px}"
+                "$value": "{sp.18px}"
             },
             "compact": {
                 "$type": "spacing",
                 "$description": "Paddings, Margins and Gaps",
-                "$value": "{global-tokens.sp.12px}"
+                "$value": "{sp.12px}"
             }
         },
         "medium": {
             "chunky": {
                 "$type": "spacing",
                 "$description": "Paddings, Margins and Gaps",
-                "$value": "{global-tokens.sp.30px}"
+                "$value": "{sp.30px}"
             },
             "compact": {
                 "$type": "spacing",
                 "$description": "Paddings, Margins and Gaps",
-                "$value": "{global-tokens.sp.18px}"
+                "$value": "{sp.18px}"
             }
         },
         "large": {
             "chunky": {
                 "$type": "spacing",
                 "$description": "Paddings, Margins and Gaps",
-                "$value": "{global-tokens.sp.48px}"
+                "$value": "{sp.48px}"
             },
             "compact": {
                 "$type": "spacing",
                 "$description": "Paddings, Margins and Gaps",
-                "$value": "{global-tokens.sp.30px}"
+                "$value": "{sp.30px}"
             }
         }
     },
@@ -115,36 +115,36 @@
             "chunky": {
                 "$type": "radius",
                 "$description": "Border Radius",
-                "$value": "{global-tokens.sp.18px}"
+                "$value": "{sp.18px}"
             },
             "compact": {
                 "$type": "radius",
                 "$description": "Border Radius",
-                "$value": "{global-tokens.sp.12px}"
+                "$value": "{sp.12px}"
             }
         },
         "large": {
             "chunky": {
                 "$type": "radius",
                 "$description": "Border Radius",
-                "$value": "{global-tokens.sp.30px}"
+                "$value": "{sp.30px}"
             },
             "compact": {
                 "$type": "radius",
                 "$description": "Border Radius",
-                "$value": "{global-tokens.sp.18px}"
+                "$value": "{sp.18px}"
             }
         },
         "x-large": {
             "chunky": {
                 "$type": "radius",
                 "$description": "Border Radius",
-                "$value": "{global-tokens.sp.48px}"
+                "$value": "{sp.48px}"
             },
             "compact": {
                 "$type": "radius",
                 "$description": "Border Radius",
-                "$value": "{global-tokens.sp.30px}"
+                "$value": "{sp.30px}"
             }
         }
     }
