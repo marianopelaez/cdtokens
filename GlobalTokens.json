@@ -41,7 +41,7 @@
                 "$type": "spacing",
                 "$description": "6rem",
                 "$value": "96px"
-            },
+            }
         }
     },
     "spacing": {
