@@ -42,6 +42,13 @@
                 "$description": "6rem",
                 "$value": "96px"
             }
+        },
+        "sz": {
+            "3px": {
+                "$type": "sizing",
+                "$description": "0.1875rem",
+                "$value": "3px"
+            }
         }
     },
     "spacing": {
