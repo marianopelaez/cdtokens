@@ -388,22 +388,22 @@
         }
       },
       "breakpoints": {
-        "small": {
+        "mobile": {
           "$type": "size",
           "$description": "min-width",
           "$value": "320px"
         },
-        "medium": {
+        "tablet": {
           "$type": "size",
           "$description": "min-width",
           "$value": "640px"
         },
-        "large": {
+        "laptop": {
           "$type": "size",
           "$description": "min-width",
           "$value": "1280px"
         },
-        "x-large": {
+        "desktop": {
           "$type": "size",
           "$description": "min-width",
           "$value": "1536px"
