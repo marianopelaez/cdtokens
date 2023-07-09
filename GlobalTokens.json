@@ -299,36 +299,36 @@
     "medium": {
       "chunky": {
         "$type": "radius",
-        "$description": "Border Radius",
+        "$description": "border-radius",
         "$value": "{sp.18px}"
       },
       "compact": {
         "$type": "radius",
-        "$description": "Border Radius",
+        "$description": "border-radius",
         "$value": "{sp.12px}"
       }
     },
     "large": {
       "chunky": {
         "$type": "radius",
-        "$description": "Border Radius",
+        "$description": "border-radius",
         "$value": "{sp.30px}"
       },
       "compact": {
         "$type": "radius",
-        "$description": "Border Radius",
+        "$description": "border-radius",
         "$value": "{sp.18px}"
       }
     },
     "x-large": {
       "chunky": {
         "$type": "radius",
-        "$description": "Border Radius",
+        "$description": "border-radius",
         "$value": "{sp.48px}"
       },
       "compact": {
         "$type": "radius",
-        "$description": "Border Radius",
+        "$description": "border-radius",
         "$value": "{sp.30px}"
       }
     }
