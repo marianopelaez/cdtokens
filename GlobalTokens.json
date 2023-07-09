@@ -389,52 +389,24 @@
       },
       "breakpoints": {
         "small": {
-          "min-width": {
-            "$type": "size",
-            "$description": "Max Mobile",
-            "$value": "320px"
-          },
-          "max-width": {
-            "$type": "size",
-            "$description": "Max Mobile",
-            "$value": "639px"
-          }
+          "$type": "size",
+          "$description": "Max Mobile",
+          "$value": "320px"
         },
         "medium": {
-          "min-width": {
-            "$type": "size",
-            "$description": "Min Tablet",
-            "$value": "640px"
-          },
-          "max-width": {
-            "$type": "size",
-            "$description": "Max Tablet",
-            "$value": "1279px"
-          }
+          "$type": "size",
+          "$description": "Min Tablet",
+          "$value": "640px"
         },
         "large": {
-          "min-width": {
-            "$type": "size",
-            "$description": "Min Laptop",
-            "$value": "1280px"
-          },
-          "max-width": {
-            "$type": "size",
-            "$description": "Max Laptop",
-            "$value": "1535px"
-          }
+          "$type": "size",
+          "$description": "Min Laptop",
+          "$value": "1280px"
         },
         "x-large": {
-          "min-width": {
-            "$type": "size",
-            "$description": "Min Desktop",
-            "$value": "1536px"
-          },
-          "max-width": {
-            "$type": "size",
-            "$description": "Max Desktop",
-            "$value": "1920px"
-          }
+          "$type": "size",
+          "$description": "Min Desktop",
+          "$value": "1536px"
         }
       }
     }
