@@ -2,42 +2,42 @@
   "sp": {
     "3px": {
       "$type": "global-token",
-      "$description": "0.1875rem",
+      "$description": "0.5rem",
       "$value": "3px"
     },
     "6px": {
       "$type": "global-token",
-      "$description": "0.25rem",
+      "$description": "1rem (base)",
       "$value": "6px"
     },
     "12px": {
       "$type": "global-token",
-      "$description": "0.625rem",
+      "$description": "2rem",
       "$value": "12px"
     },
     "18px": {
       "$type": "global-token",
-      "$description": "1.125rem",
+      "$description": "3rem",
       "$value": "18px"
     },
     "30px": {
       "$type": "global-token",
-      "$description": "1.875rem",
+      "$description": "5rem",
       "$value": "30px"
     },
     "48px": {
       "$type": "global-token",
-      "$description": "3rem",
+      "$description": "8rem",
       "$value": "48px"
     },
     "78px": {
       "$type": "global-token",
-      "$description": "4.875rem",
+      "$description": "13rem",
       "$value": "78px"
     },
     "96px": {
       "$type": "global-token",
-      "$description": "6rem",
+      "$description": "16rem",
       "$value": "96px"
     }
   },
@@ -79,7 +79,7 @@
     },
     "16px": {
       "$type": "global-token",
-      "$description": "1rem",
+      "$description": "1rem (base)",
       "$value": "16px"
     },
     "20px": {
@@ -237,60 +237,60 @@
     "2x-small": {
       "chunky": {
         "$type": "spacing",
-        "$description": "Paddings, Margins and Gaps",
+        "$description": "padding/marging/gap",
         "$value": "{sp.6px}"
       },
       "compact": {
         "$type": "spacing",
-        "$description": "Paddings, Margins and Gaps",
+        "$description": "padding/marging/gap",
         "$value": "{sp.3px}"
       }
     },
     "x-small": {
       "chunky": {
         "$type": "spacing",
-        "$description": "Paddings, Margins and Gaps",
+        "$description": "padding/marging/gap",
         "$value": "{sp.12px}"
       },
       "compact": {
         "$type": "spacing",
-        "$description": "Paddings, Margins and Gaps",
+        "$description": "padding/marging/gap",
         "$value": "{sp.6px}"
       }
     },
     "small": {
       "chunky": {
         "$type": "spacing",
-        "$description": "Paddings, Margins and Gaps",
+        "$description": "padding/marging/gap",
         "$value": "{sp.18px}"
       },
       "compact": {
         "$type": "spacing",
-        "$description": "Paddings, Margins and Gaps",
+        "$description": "padding/marging/gap",
         "$value": "{sp.12px}"
       }
     },
     "medium": {
       "chunky": {
         "$type": "spacing",
-        "$description": "Paddings, Margins and Gaps",
+        "$description": "padding/marging/gap",
         "$value": "{sp.30px}"
       },
       "compact": {
         "$type": "spacing",
-        "$description": "Paddings, Margins and Gaps",
+        "$description": "padding/marging/gap",
         "$value": "{sp.18px}"
       }
     },
     "large": {
       "chunky": {
         "$type": "spacing",
-        "$description": "Paddings, Margins and Gaps",
+        "$description": "padding/marging/gap",
         "$value": "{sp.48px}"
       },
       "compact": {
         "$type": "spacing",
-        "$description": "Paddings, Margins and Gaps",
+        "$description": "padding/marging/gap",
         "$value": "{sp.30px}"
       }
     }
