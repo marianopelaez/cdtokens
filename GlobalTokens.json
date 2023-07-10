@@ -379,7 +379,7 @@
         "small": {
           "$type": "size",
           "$description": "max-width",
-          "$value": "{sz.320px}"
+          "$value": "{sz.384px}"
         },
         "medium": {
           "$type": "size",
