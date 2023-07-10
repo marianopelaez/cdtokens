@@ -353,14 +353,24 @@
       "medium": {
         "$type": "size",
         "$description": "max-width",
-        "$value": "{sz.512px}"
+        "$value": "{sz.384px}"
       },
       "large": {
         "$type": "size",
         "$description": "max-width",
-        "$value": "{sz.640px}"
+        "$value": "{sz.480px}"
       },
       "x-large": {
+        "$type": "size",
+        "$description": "max-width",
+        "$value": "{sz.512px}"
+      },
+      "2x-large": {
+        "$type": "size",
+        "$description": "max-width",
+        "$value": "{sz.640px}"
+      },
+      "3x-large": {
         "$type": "size",
         "$description": "max-width",
         "$value": "{sz.768px}"
