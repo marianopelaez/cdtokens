@@ -296,7 +296,7 @@
     }
   },
   "radius": {
-    "medium": {
+    "small": {
       "chunky": {
         "$type": "radius",
         "$description": "border-radius",
@@ -308,7 +308,7 @@
         "$value": "{sp.12px}"
       }
     },
-    "large": {
+    "medium": {
       "chunky": {
         "$type": "radius",
         "$description": "border-radius",
@@ -320,7 +320,7 @@
         "$value": "{sp.18px}"
       }
     },
-    "x-large": {
+    "large": {
       "chunky": {
         "$type": "radius",
         "$description": "border-radius",
