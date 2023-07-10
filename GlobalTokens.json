@@ -387,7 +387,7 @@
           "$value": "{sz.768px}"
         }
       },
-      "breakpoints": {
+      "screen": {
         "mobile": {
           "$type": "size",
           "$description": "min-width",
