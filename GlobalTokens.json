@@ -396,6 +396,11 @@
         "$type": "size",
         "$description": "max-width",
         "$value": "{sz.768px}"
+      },
+      "fullscreen": {
+        "$type": "size",
+        "$description": "max-width",
+        "$value": "100%"
       }
     },
     "screen": {
