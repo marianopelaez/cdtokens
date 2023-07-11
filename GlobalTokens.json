@@ -419,6 +419,50 @@
           "$value": "1536px"
         }
       }
+    },
+    "modal": {
+      "small": {
+        "$type": "size",
+        "$description": "max-width",
+        "$value": "{sz.384px}"
+      },
+      "medium": {
+        "$type": "size",
+        "$description": "max-width",
+        "$value": "{sz.512px}"
+      },
+      "large": {
+        "$type": "size",
+        "$description": "max-width",
+        "$value": "{sz.640px}"
+      },
+      "x-large": {
+        "$type": "size",
+        "$description": "max-width",
+        "$value": "{sz.768px}"
+      }
+    },
+    "screen": {
+      "mobile": {
+        "$type": "size",
+        "$description": "min-width",
+        "$value": "320px"
+      },
+      "tablet": {
+        "$type": "size",
+        "$description": "min-width",
+        "$value": "640px"
+      },
+      "laptop": {
+        "$type": "size",
+        "$description": "min-width",
+        "$value": "1280px"
+      },
+      "desktop": {
+        "$type": "size",
+        "$description": "min-width",
+        "$value": "1536px"
+      }
     }
   }
 }
